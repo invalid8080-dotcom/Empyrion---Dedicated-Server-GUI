@@ -1,6 +1,11 @@
 # Empyrion---Dedicated-Server-GUI
 this is a fully redeveloped EDS GUI  made to be move user friendly than the generic steam version, and can be run separately from the client side game
 
+[![Watch the video](https://img.youtube.com/vi/_w1_6uGN2Zg/maxresdefault.jpg)](https://www.youtube.com/watch?v=_w1_6uGN2Zg)
+
+**▶ Click the preview above to watch the video on YouTube.**
+
+
 # Empyrion Dedicated Server Launcher
 
 A portable, one-folder GUI for running your own **Empyrion - Galactic Survival** dedicated server on Windows.
