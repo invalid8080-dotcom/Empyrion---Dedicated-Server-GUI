@@ -1,0 +1,27 @@
+## 1.3.3
+- Update dialog redesigned: release notes shown as "What's new", **Update** / **Update later** buttons, light + dark variant, link to the releases page
+- Dark mode completed: custom dark scrollbars (config editor, server log, lists, chat), dark tab strip/page frame, dark drop-downs and status bar
+- Scenario & Mods: removed the popup shown on every tab open; global mods in `Content\Mods` can be disabled/enabled via checkbox (`Content\Mods.disabled`)
+- ListView: last column fills the width, dark selection highlight
+
+## 1.3.1
+- In-game chat window (reads player chat from the log, reply as SERVER or custom name, unread counter)
+- Scheduled auto save & restart with player warning and optional backup
+- Dark mode
+
+## 1.2.3
+- Auto-update from GitHub releases with SHA-256 verification and self-restart; manual check via status bar
+
+## 1.2.2
+- Launch Game button; Connect Info (local / LAN / VPN / public) with copy buttons
+- Fixed "Activation error" on join (server runs with SteamAppId 383120)
+
+## 1.2.0
+- Portable install, SteamCMD-based server download/update, full offline bundle
+- Scenario dropdown from Content\Scenarios + Steam Workshop, DLL mod checkboxes, native .exe launcher
+
+## 1.1.0
+- Multi-server profiles, per-server mods, live save backups, Donate button
+
+## 1.0.0
+- Initial resizable launcher with Save & Restart
